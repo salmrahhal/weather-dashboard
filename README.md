@@ -14,7 +14,7 @@ The dashboard includes **API integration**, **data transformation**, and **dynam
   - [Current Weather Data API](https://openweathermap.org/current)
   - [5 Day / 3 Hour Forecast API](https://openweathermap.org/forecast5)
 
-## 📥 Data Fields Extracted
+## Data Fields Extracted
 - `City Name`
 - `Temperature` (°C/°F)
 - `Humidity` (%)
@@ -56,4 +56,8 @@ The dashboard includes **API integration**, **data transformation**, and **dynam
   - Time Frame (Current, Next 3 Days, Full 5-Day View)
 - **Dynamic Titles & Filters**:
   - Adjusts visuals and headers based on user selections
- ![]()
+    
+## Dashboard Preview
+ ![](img1.png)
+ ![](img2.png)
+
